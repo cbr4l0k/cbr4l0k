@@ -2,7 +2,7 @@
 alias: ["000"]
 ---
 
-![[banner.png]]
+![[Extras/Images/banner.png]]
 
 # Home 🌎
 Welcome... 
