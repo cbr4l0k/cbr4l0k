@@ -1,44 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "+ About Spaces",
-      "path": "Spaces/+ About Spaces.md"
+      "basename": "Egg Dough Pasta",
+      "path": "Cards/Egg Dough Pasta.md"
+    },
+    {
+      "basename": "Food MOC",
+      "path": "Atlas/Food MOC.md"
+    },
+    {
+      "basename": "Pasta",
+      "path": "Cards/Pasta.md"
+    },
+    {
+      "basename": "Wheat",
+      "path": "Cards/Wheat.md"
+    },
+    {
+      "basename": "Gluten",
+      "path": "Cards/Gluten.md"
+    },
+    {
+      "basename": "Flour in Pasta",
+      "path": "Cards/Flour in Pasta.md"
+    },
+    {
+      "basename": "Bread",
+      "path": "Cards/Bread.md"
+    },
+    {
+      "basename": "The Four Seasons",
+      "path": "Cards/The Four Seasons.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "+ About Sources",
-      "path": "Sources/+ About Sources.md"
+      "basename": "Esoteric MOC",
+      "path": "Atlas/Esoteric MOC.md"
+    },
+    {
+      "basename": "Summer Solstice",
+      "path": "Cards/Summer Solstice.md"
+    },
+    {
+      "basename": "Winter Solstice",
+      "path": "Cards/Winter Solstice.md"
     },
     {
       "basename": "+ About Cards",
       "path": "Cards/+ About Cards.md"
     },
     {
-      "basename": "+ Start Here",
-      "path": "Cards/+ Start Here.md"
+      "basename": "The Hero's Journey",
+      "path": "Cards/The Hero's Journey.md"
     },
     {
-      "basename": "+ About Extras",
-      "path": "Extras/+ About Extras.md"
+      "basename": "Pasted image 20221130195917",
+      "path": "Extras/Images/Pasted image 20221130195917.png"
     },
     {
-      "basename": "+ About Encounters",
-      "path": "+_Encounters/+ About Encounters.md"
+      "basename": "Pasted image 20221130201650",
+      "path": "Extras/Images/Pasted image 20221130201650.png"
     },
     {
-      "basename": "+ About Calendar",
-      "path": "Calendar/+ About Calendar.md"
+      "basename": "Pasted image 20221130215134",
+      "path": "Extras/Images/Pasted image 20221130215134.png"
+    },
+    {
+      "basename": "Pasted image 20221129235351",
+      "path": "Extras/Images/Pasted image 20221129235351.png"
+    },
+    {
+      "basename": "Help, NoMa (mine)",
+      "path": "Extras/Templates/Help, NoMa (mine).md"
     },
     {
       "basename": "+ About Atlas",
       "path": "Atlas/+ About Atlas.md"
     },
     {
-      "basename": "Template, Meeting (kit)",
-      "path": "Extras/Templates/Template, Meeting (kit).md"
+      "basename": "+ About Calendar",
+      "path": "Calendar/+ About Calendar.md"
+    },
+    {
+      "basename": "+ About Sources",
+      "path": "Sources/+ About Sources.md"
+    },
+    {
+      "basename": "+ About Extras",
+      "path": "Extras/+ About Extras.md"
+    },
+    {
+      "basename": "+ About Spaces",
+      "path": "Spaces/+ About Spaces.md"
+    },
+    {
+      "basename": "Template, Map (mine)",
+      "path": "Extras/Templates/Template, Map (mine).md"
+    },
+    {
+      "basename": "Template, Daily Note (kit)",
+      "path": "Extras/Templates/Template, Daily Note (kit).md"
     },
     {
       "basename": "Template, Dates dates dates (kit)",
@@ -47,6 +111,10 @@
     {
       "basename": "Template, Note (kit)",
       "path": "Extras/Templates/Template, Note (kit).md"
+    },
+    {
+      "basename": "Template, Meeting (kit)",
+      "path": "Extras/Templates/Template, Meeting (kit).md"
     }
   ],
   "omittedPaths": [],

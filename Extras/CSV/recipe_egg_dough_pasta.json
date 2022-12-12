@@ -1,0 +1,22 @@
+[
+   {
+      "Name":"00 Flour",
+      "Amount_Metric":"360 grams",
+      "Amount_Imperial":"2 well-packed cups"
+   },
+   {
+      "Name":"Kosher Salt",
+      "Amount_Metric":"1.15 teaspoons",
+      "Amount_Imperial":"2 big pinces"
+   },
+   {
+      "Name":"Egg Yolks",
+      "Amount_Metric":"300 grams",
+      "Amount_Imperial":"18-20 yolks"
+   },
+   {
+      "Name":"Extra-Virgin Olive Oil",
+      "Amount_Metric":"1.50 teaspoons",
+      "Amount_Imperial": null
+   }
+]

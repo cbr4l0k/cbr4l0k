@@ -1,4 +1,4 @@
-up:: [[Meta PKM]]
+up:: [[README]]
 tags:: #on/readme 
 
 # About Atlas

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acb2f2b0e43e3885",
+        "id": "911c7bb2c5974676",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e782fe0e3b8f62",
+            "id": "5025213116464b4d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,39 +18,194 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "README",
+                  "title": "Food MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Egg Dough Pasta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Egg Dough Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":17},\"to\":{\"line\":3,\"ch\":17}}}"
+                },
+                {
+                  "title": "Pasta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":22},\"to\":{\"line\":35,\"ch\":22}},\"scroll\":25.075447599372616}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":3}}}"
+                },
+                {
+                  "title": "Pasta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":3},\"to\":{\"line\":34,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":9},\"to\":{\"line\":12,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "Pasta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":6},\"to\":{\"line\":34,\"ch\":6}},\"scroll\":20.006389335008045}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wheat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Wheat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "+ About Sources",
+                  "title": "Pasta",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/+ About Sources.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":79},\"to\":{\"line\":14,\"ch\":79}},\"scroll\":3.1870897431850342}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.26193724420190995}"
+                },
+                {
+                  "title": "Pasta",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pasta.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}},\"scroll\":1.3457019171304885}"
                 },
                 {
                   "title": "README",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":4.903721450247565}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.79654520634254}"
                 },
                 {
-                  "title": "+ About Cards",
+                  "title": "Esoteric MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/+ About Cards.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":17.69909054962436}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Esoteric MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Four Seasons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/The Four Seasons.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":5},\"to\":{\"line\":0,\"ch\":5}}}"
+                },
+                {
+                  "title": "Esoteric MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Esoteric MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.618450068255802}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":8},\"to\":{\"line\":1,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "Esoteric MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Esoteric MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.8905866302864939}"
+                },
+                {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":6.744259978806076}"
+                },
+                {
+                  "title": "Esoteric MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Esoteric MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Astrology MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Astrology MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Esoteric MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Esoteric MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Food MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Food MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":3},\"to\":{\"line\":8,\"ch\":3}},\"scroll\":0}"
+                },
+                {
+                  "title": "Winter Solstice",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Winter Solstice.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.13624749041796}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/+ About Spaces.md",
+                "file": "Cards/Egg Dough Pasta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fb47d986cc3e962d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -100,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#output/newsletter",
+                "query": "tag:#map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/+ About Spaces.md",
+                "file": "Cards/Egg Dough Pasta.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,8 +360,8 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -215,8 +370,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5168584698559424,
-                  "close": false
+                  "scale": 0.4321136626343246,
+                  "close": true
                 }
               }
             }
@@ -236,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/+ About Spaces.md"
+                "file": "Cards/Egg Dough Pasta.md"
               }
             }
           },
@@ -257,7 +412,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
@@ -278,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/+ About Spaces.md",
+                "file": "Cards/Egg Dough Pasta.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +460,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/+ About Spaces.md",
+                "file": "Cards/Egg Dough Pasta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,17 +472,17 @@
     "direction": "horizontal",
     "width": 241.5028076171875
   },
-  "active": "d1e782fe0e3b8f62",
+  "active": "5025213116464b4d",
   "lastOpenFiles": [
-    "README.md",
-    "Sources/+ About Sources.md",
-    "Inbox.md",
-    "Cards/+ About Cards.md",
-    "The forest entrance.md",
-    "Cards/+ Start Here.md",
-    "Spaces/+ About Spaces.md",
-    "Spaces/My Newsletters/LYT Notes 1 (Example).md",
-    "Extras/+ About Extras.md",
-    "+_Encounters/+ About Encounters.md"
+    "Atlas/+ About Atlas.md",
+    "Cards/Egg Dough Pasta.md",
+    "Atlas/Food MOC.md",
+    "Cards/Pasta.md",
+    "Cards/Wheat.md",
+    "Cards/Gluten.md",
+    "Cards/Flour in Pasta.md",
+    "Cards/Bread.md",
+    "Cards/The Four Seasons.md",
+    "README.md"
   ]
 }

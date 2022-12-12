@@ -4,7 +4,7 @@
   "promptDelete": false,
   "foldHeading": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "+ Encounters",
+  "newFileFolderPath": "+_Encounters",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
@@ -156,5 +156,13 @@
     "Cards/Sources/Courses/",
     "Spaces/Life/Cards/Finance Calendar/"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "trashOption": "none",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ],
+  "vimMode": true
 }

@@ -1,4 +1,4 @@
-up:: [[Meta PKM]]
+up:: [[README]]
 tags:: #on/readme 
 
 # This is where timestamped notes go
