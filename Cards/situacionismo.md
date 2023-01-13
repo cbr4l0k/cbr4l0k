@@ -1,0 +1,3 @@
+El situacionismo es una corriente filosófica y cultural que se desarrolló en Francia en la década de 1959 y que estuvo influenciada por el marxismo y el existencialismo. El situacionismo sostiene que la sociedad y la cultura son producto de la interacción entre individuos y sus situaciones concretas, y que la libertad y la autonomía individuales son limitadas por las estructuras sociales y culturales que nos rodean.
+
+Uno de los principales representantes del situacionismo es [[Guy-Debord]], [[situacionimo-según-guy-debord]]. 

@@ -1,0 +1,5 @@
+La situación planteada por [osio-2016](osio-2016.md): "El poder colonizador se manifiesta en el control de la información y de la cultura, con lo cual se impone a las identidades y los valores de las comunidades de los países en desarrollo" (17), es bastante común y muchas veces poco notorio en casos de la cotidianidad.
+
+En el 2009, nadie esperaba que las tiendas D1 llegaría a tener ingresos de casi 10 billones de pesos colombianos 13 años después. Pero se puede decir que esta empresa llego al mercado colombiano y colonizo la industria, obligando a las cadenas de supermercados de cadena más imponentes de la época a reinventar su modelo de negocio; así, cambiando la cultura del mercar a una escala nacional. 
+
+Aunque la  situación planteada no es exclusiva para comunidades en países en desarrollo, se puede ver como cumple el resto de los factores mencionados por [osio-2016](osio-2016.md). En este caso la forma en la que se tomó control sobre la cultura de mercado, tuvo que ver con mejores precios y una buena variedad de productos.

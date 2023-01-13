@@ -1,0 +1,5 @@
+[[Martin-Heidegger]] es conocido por su crítica a la tecnociencia y su argumento de que la tecnología ha llegado a dominar la forma en que entendemos y experimentamos al mundo. Según Heidegger, la tecnología ha llegado a a ser el marco dominante en el que se entiende y se organiza la realidad, y ha eclipsado otras formas de comprensión y relación con el mundo.
+
+Heidegger argumenta que la tecnología se ha convertido en una forma de "enjambre" o "crecimiento sin fin" que se expande y se extiende a través de todos los aspectos de la vida y que ha llegado a determinar la forma en que entendemos y experimentamos el mundo. Esto ha llevado a una "abstractización" de la realidad, en la que se reduce todo a una serie de recursos que se pueden medir, controlar y explotar.
+
+Heidegger argumenta que esta forma de comprensión tecnológica del mundo nos impide ver y experimentar la realidad de manera más profunda y significativa, y nos aleja de otras formas de comprensión más profunda y significativa de la realidad.

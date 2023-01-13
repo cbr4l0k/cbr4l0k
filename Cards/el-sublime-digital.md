@@ -1,0 +1,3 @@
+Como se puede ver en [lo-sublime-vs-lo-bello](lo-sublime-vs-lo-bello.md), al intentar mezclar las perspectivas de lo sublime de [immanuel-kant](immanuel-kant) y de [friedrich-nietzsche](friedrich-nietzsche); se puede obtener una noción casi que contradictoria frente a la digitalidad, incitando tanto a la atracción como al repudio. 
+
+Se podría decir que la digitalidad se convierte en causa y efecto de experiencias sublimes. Incitando a la generación masiva de contenido, que por su factor sublime impide el análisis desde métodos análogos, obligando a utilizar herramientas de la digitalidad como lo son el [big-data](big-data) o los modelos de [machine-learning](machine-learning).

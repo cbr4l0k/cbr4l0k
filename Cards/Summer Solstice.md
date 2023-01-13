@@ -1,4 +1,4 @@
-up:: [[The Four Seasons]]
+up:: [[the-four-seasons]]
 tags:: #esoteric  #astrology #astronomy 
 
 # Summer Solstice

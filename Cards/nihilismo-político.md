@@ -1,0 +1,5 @@
+El nihilismo político se refiere a la creencia de que no es posible la resistencia o el cambio político efectivo. Esto se debe a que se considera que no hay valores o ideales universales que puedan servir como guía para la acción política, o que las estructuras de poder son tan sólidas y omnipresentes que cualquier intento de resistencia o cambio es inútil.
+
+El nihilismo político se opone al optimismo político, que sostiene que es posible el cambio político y que hay valores universales que pueden guiar la acción política. En lugar de tratar de cambiar el mundo, el nihilismo político se limita a desacreditar todas las formas de poder y autoridad sin proponer ninguna alternativa concreta.
+
+Es importante tener en cuenta que el nihilismo político no es necesariamente la misma cosa que el nihilismo filosófico, que es la creencia de que no hay sentido o propósito en la vida o en el mundo. Aunque el nihilismo político puede tener ciertos elementos nihilistas, se enfoca específicamente en la imposibilidad del cambio político y no en la ausencia de sentido o propósito en general.
