@@ -1,0 +1,1 @@
+Teoría propuesta por el filósofo [hans-george-gadamer](hans-george-gadamer), donde platea que el arte no es un objeto que se puede ver o escuchar, sino una oportunidad para experimentar la realidad de una manera diferente. Esta implica una cercanía extrema entre el arte y las diversas exigencias de una sociedad.

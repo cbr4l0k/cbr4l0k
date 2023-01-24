@@ -8,30 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Cards",
-      "color": {
-        "a": 1,
-        "rgb": 5562450
-      }
-    },
-    {
       "query": "path:Sources",
       "color": {
         "a": 1,
-        "rgb": 14701188
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:+_Encounters",
+      "color": {
+        "a": 1,
+        "rgb": 5431447
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 1.35738663675693,
-  "lineSizeMultiplier": 0.447842096249358,
-  "collapse-forces": true,
-  "centerStrength": 0.418727745164084,
-  "repelStrength": 9.93123628383321,
-  "linkStrength": 0.662111442594553,
-  "linkDistance": 30,
-  "scale": 0.690078318666726,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.368979859894921,
+  "repelStrength": 13.9645359019264,
+  "linkStrength": 1,
+  "linkDistance": 101,
+  "scale": 0.4764840403102868,
   "close": true
 }

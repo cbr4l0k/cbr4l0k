@@ -1,0 +1,5 @@
+En términos artísticos, la deconstrucción se refiere al proceso mediante el cual se analizan y descomponen los elementos de una obra de arte con el fin de revelar los significados subyacentes, las relaciones de poder y las estructuras discursivas que se encuentran en su interior. La deconstrucción se basa en la idea de que el lenguaje y el arte no son simples reflejos de la realidad, sino que son construcciones sociales que están cargadas de significado y poder.
+
+En la deconstrucción se analizan las diferentes partes de una obra de arte (como la forma, el contenido, la técnica, el contexto histórico, etc.) para desentrañar los significados y las estructuras subyacentes. Se busca desentrañar  los significados ocultos y las relaciones de poder que se encuentran en la obra, para desnaturalizar las suposiciones y los prejuicios que se asocian a ella.
+
+La deconstrucción tiene una relación estrecha con la teoría posmoderna, ya que se enfoca en la idea de que el lenguaje y la representación so construcciones sociales y no reflejos de la realidad, y que el arte no es una entidad aislada, sino que está inserta en un contexto social y cultural específico. 
