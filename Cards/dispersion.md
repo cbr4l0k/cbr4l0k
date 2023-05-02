@@ -1,0 +1,1 @@
+[dispersion](dispersion.md) refers to the tendency of waves to spread out and change shape as they propagate through a medium. Dispersion is caused by the fact that different frequencies of waves travel at slightly different speeds, which leads to a separation of the wave components over time. Dispersion can cause waves to become less coherent and lose energy as they travel.

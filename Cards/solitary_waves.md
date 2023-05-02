@@ -1,0 +1,6 @@
+Solitary waves, also known as **solitons** are a type of waves that maintains its shape and speed as it travels through a medium, without dispersion or decay. Unlike other types of waves, which ten to spread out and lose energy as they travel, solitary wave remain localized  and self-reinforcing.
+
+Solitary waves can occur in a variety of physical systems, including [water_waves](water_waves) , [electromagnetic_waves](electromagnetic_waves), and [acoustic_waves](acoustic_waves). They are characterized by a [balance_between_nonlinearity_and_dispersion](solitary_waves_and_the_balance_between_nonlinearity_and_dispersion.md), which allows them to maintain their shape and speed over long distances. They are often observed in nonlinear systems, where small perturbations can lead to large changes in behavior, and have important applications in fields such as oceanography, optics, and plasma physics. 
+
+One of the most famous examples of a solitary wave is the [tsunami](tsunami), which can travel thousands of kilometers across the ocean without significant dispersion or attenuation. However, solitions can also be much smaller in scale, such as the optical solutions used in fiber optic communication systems. 
+

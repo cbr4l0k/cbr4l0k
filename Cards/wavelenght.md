@@ -1,0 +1,1 @@
+It is defined as the distance between two consecutive peaks or troughs of the wave.

@@ -1,0 +1,1 @@
+[solitary_waves](solitary_waves.md) shed very little [reflection](reflection_in_wave_dynamics.md) going through a narrow sharp-bend, as opposed to wider channels where a reflected wave is clearly observed.

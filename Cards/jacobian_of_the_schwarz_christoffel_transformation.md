@@ -1,0 +1,3 @@
+Imagine you have a big piece of paper with a shape drawn on it. Now you want to shrink or stretch the paper so that the shape becomes a different shape, like a square or a circle. But if you just try tu pull on the paper randomly, you might distort the shape and make it look weird. 
+
+That's where the [jacobian](jacobian.md) of the [schwarz_christoffel_transformation](schwarz_christoffel_transformation.md) comes in. It tells you how much you need to shrink or stretch the paper in different directions to keep the shape looking nice and smooth. It's like a set of rules that help you make the right adjustments to the paper.

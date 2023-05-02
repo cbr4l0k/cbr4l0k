@@ -1,6 +1,170 @@
 {
   "recentFiles": [
     {
+      "basename": "nachbin-2012",
+      "path": "Sources/nachbin-2012.md"
+    },
+    {
+      "basename": "neumman_condition",
+      "path": "+_Encounters/neumman_condition.md"
+    },
+    {
+      "basename": "dispersion",
+      "path": "Cards/dispersion.md"
+    },
+    {
+      "basename": "channel_width_to_wavelenght_ratio",
+      "path": "Cards/channel_width_to_wavelenght_ratio.md"
+    },
+    {
+      "basename": "cuaderno_de_dibujo_texto",
+      "path": "+_Encounters/cuaderno_de_dibujo_texto.md"
+    },
+    {
+      "basename": "boussinesq_type_systems_of_partial_differential_equations",
+      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
+    },
+    {
+      "basename": "solitary_waves",
+      "path": "Cards/solitary_waves.md"
+    },
+    {
+      "basename": "jacobian_of_the_schwarz_christoffel_transformation",
+      "path": "Cards/jacobian_of_the_schwarz_christoffel_transformation.md"
+    },
+    {
+      "basename": "jacobian",
+      "path": "Cards/jacobian.md"
+    },
+    {
+      "basename": "riemman_mapping_theorem",
+      "path": "Cards/riemman_mapping_theorem.md"
+    },
+    {
+      "basename": "conformal map",
+      "path": "Cards/conformal map.md"
+    },
+    {
+      "basename": "schwarz_christoffel_transformation",
+      "path": "Cards/schwarz_christoffel_transformation.md"
+    },
+    {
+      "basename": "presence_of_branching_points_in_a_channel",
+      "path": "Cards/presence_of_branching_points_in_a_channel.md"
+    },
+    {
+      "basename": "tsunamis_in_norwegian_fjords",
+      "path": "Cards/tsunamis_in_norwegian_fjords.md"
+    },
+    {
+      "basename": "propagation_of_nonlinear_waves_in_highly_curved_open_channels",
+      "path": "Cards/propagation_of_nonlinear_waves_in_highly_curved_open_channels.md"
+    },
+    {
+      "basename": "solitary_waves_in_different_width_channels",
+      "path": "Cards/solitary_waves_in_different_width_channels.md"
+    },
+    {
+      "basename": "nonlinearity_in_solitary_waves",
+      "path": "Cards/nonlinearity_in_solitary_waves.md"
+    },
+    {
+      "basename": "reflection_in_wave_dynamics",
+      "path": "Cards/reflection_in_wave_dynamics.md"
+    },
+    {
+      "basename": "wavelenght",
+      "path": "Cards/wavelenght.md"
+    },
+    {
+      "basename": "solitary_waves_and_the_balance_between_nonlinearity_and_dispersion",
+      "path": "Cards/solitary_waves_and_the_balance_between_nonlinearity_and_dispersion.md"
+    },
+    {
+      "basename": "simple-sheet-tray-pizza",
+      "path": "Cards/simple-sheet-tray-pizza.md"
+    },
+    {
+      "basename": "kant-1997",
+      "path": "Sources/kant-1997.md"
+    },
+    {
+      "basename": "cdd_idea_02",
+      "path": "+_Encounters/cdd_idea_02.md"
+    },
+    {
+      "basename": "cdd_idea_04",
+      "path": "+_Encounters/cdd_idea_04.md"
+    },
+    {
+      "basename": "cdd_idea_03",
+      "path": "+_Encounters/cdd_idea_03.md"
+    },
+    {
+      "basename": "cdd_idea_01",
+      "path": "+_Encounters/cdd_idea_01.md"
+    },
+    {
+      "basename": "mathematicalModeling-2023",
+      "path": "Sources/mathematicalModeling-2023.md"
+    },
+    {
+      "basename": "nlp-2023",
+      "path": "Sources/nlp-2023.md"
+    },
+    {
+      "basename": "el-sublime-digital",
+      "path": "Cards/el-sublime-digital.md"
+    },
+    {
+      "basename": "crítica-a-la-tecnociencia",
+      "path": "Cards/crítica-a-la-tecnociencia.md"
+    },
+    {
+      "basename": "clive-2004",
+      "path": "Sources/clive-2004.md"
+    },
+    {
+      "basename": "mathematical-model",
+      "path": "Cards/mathematical-model.md"
+    },
+    {
+      "basename": "sandip-2014",
+      "path": "Sources/sandip-2014.md"
+    },
+    {
+      "basename": "computerVision-2023",
+      "path": "Sources/computerVision-2023.md"
+    },
+    {
+      "basename": "manning-1999",
+      "path": "Sources/manning-1999.md"
+    },
+    {
+      "basename": "jurafsky-2007",
+      "path": "Sources/jurafsky-2007.md"
+    },
+    {
+      "basename": "enologia-2023",
+      "path": "Sources/enologia-2023.md"
+    },
+    {
+      "basename": "destilados-vs-fermentados",
+      "path": "Cards/destilados-vs-fermentados.md"
+    },
+    {
+      "basename": "dotCSV-2021",
+      "path": "Sources/dotCSV-2021.md"
+    },
+    {
+      "basename": "moonage-daydream-2022",
+      "path": "Sources/moonage-daydream-2022.md"
+    },
+    {
+      "basename": "deconstrucción",
+      "path": "Cards/deconstrucción.md"
+    },
+    {
       "basename": "osio-2016",
       "path": "Sources/osio-2016.md"
     },
@@ -17,16 +181,8 @@
       "path": "Cards/nihilismo-político.md"
     },
     {
-      "basename": "crítica-a-la-tecnociencia",
-      "path": "Cards/crítica-a-la-tecnociencia.md"
-    },
-    {
       "basename": "deconstrucción-en-la-teoría-del-arte",
       "path": "Cards/deconstrucción-en-la-teoría-del-arte.md"
-    },
-    {
-      "basename": "deconstrucción",
-      "path": "Cards/deconstrucción.md"
     },
     {
       "basename": "arte-de-ocasión",
@@ -43,158 +199,6 @@
     {
       "basename": "superación-de-la-estética-modernista",
       "path": "Cards/superación-de-la-estética-modernista.md"
-    },
-    {
-      "basename": "proyecto-de-la-razón-instrumental",
-      "path": "Cards/proyecto-de-la-razón-instrumental.md"
-    },
-    {
-      "basename": "situacionismo",
-      "path": "Cards/situacionismo.md"
-    },
-    {
-      "basename": "proyecto-de-la-razón-comunicativa",
-      "path": "Cards/proyecto-de-la-razón-comunicativa.md"
-    },
-    {
-      "basename": "el-sublime-digital",
-      "path": "Cards/el-sublime-digital.md"
-    },
-    {
-      "basename": "lo-sublime-vs-lo-bello",
-      "path": "Cards/lo-sublime-vs-lo-bello.md"
-    },
-    {
-      "basename": "sublime-matemático",
-      "path": "Cards/sublime-matemático.md"
-    },
-    {
-      "basename": "2023-01-12",
-      "path": "Calendar/2022/2023-01-12.md"
-    },
-    {
-      "basename": "sublime-dinámico",
-      "path": "Cards/sublime-dinámico.md"
-    },
-    {
-      "basename": "kant-1997",
-      "path": "Sources/kant-1997.md"
-    },
-    {
-      "basename": "plan-neto",
-      "path": "+_Encounters/plan-neto.canvas"
-    },
-    {
-      "basename": "propuesta-ciberseguridad",
-      "path": "Cards/propuesta-ciberseguridad.md"
-    },
-    {
-      "basename": "metodología-de-la-colonización",
-      "path": "Cards/metodología-de-la-colonización.md"
-    },
-    {
-      "basename": "epistemología-de-lo-digital",
-      "path": "Cards/epistemología-de-lo-digital.md"
-    },
-    {
-      "basename": "situacionimo-según-guy-debord",
-      "path": "Cards/situacionimo-según-guy-debord.md"
-    },
-    {
-      "basename": "violencia-epistémica",
-      "path": "Cards/violencia-epistémica.md"
-    },
-    {
-      "basename": "nihilismo-postmoderno",
-      "path": "Cards/nihilismo-postmoderno.md"
-    },
-    {
-      "basename": "nihilismo-antimetafísico",
-      "path": "Cards/nihilismo-antimetafísico.md"
-    },
-    {
-      "basename": "books-2023",
-      "path": "Atlas/books-2023.canvas"
-    },
-    {
-      "basename": "winter-solstice",
-      "path": "Cards/winter-solstice.md"
-    },
-    {
-      "basename": "the-four-seasons",
-      "path": "Cards/the-four-seasons.md"
-    },
-    {
-      "basename": "Summer Solstice",
-      "path": "Cards/Summer Solstice.md"
-    },
-    {
-      "basename": "Esoteric MOC",
-      "path": "Atlas/Esoteric MOC.md"
-    },
-    {
-      "basename": "banner",
-      "path": "Extras/Images/banner.png"
-    },
-    {
-      "basename": "The Hero's Journey",
-      "path": "Cards/The Hero's Journey.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "+ About Cards",
-      "path": "Cards/+ About Cards.md"
-    },
-    {
-      "basename": "Pasted image 20221130195917",
-      "path": "Extras/Images/Pasted image 20221130195917.png"
-    },
-    {
-      "basename": "Pasted image 20221130201650",
-      "path": "Extras/Images/Pasted image 20221130201650.png"
-    },
-    {
-      "basename": "Pasted image 20221130215134",
-      "path": "Extras/Images/Pasted image 20221130215134.png"
-    },
-    {
-      "basename": "Pasted image 20221129235351",
-      "path": "Extras/Images/Pasted image 20221129235351.png"
-    },
-    {
-      "basename": "Help, NoMa (mine)",
-      "path": "Extras/Templates/Help, NoMa (mine).md"
-    },
-    {
-      "basename": "+ About Atlas",
-      "path": "Atlas/+ About Atlas.md"
-    },
-    {
-      "basename": "+ About Extras",
-      "path": "Extras/+ About Extras.md"
-    },
-    {
-      "basename": "Template, Map (mine)",
-      "path": "Extras/Templates/Template, Map (mine).md"
-    },
-    {
-      "basename": "Template, Daily Note (kit)",
-      "path": "Extras/Templates/Template, Daily Note (kit).md"
-    },
-    {
-      "basename": "Template, Dates dates dates (kit)",
-      "path": "Extras/Templates/Template, Dates dates dates (kit).md"
-    },
-    {
-      "basename": "Template, Note (kit)",
-      "path": "Extras/Templates/Template, Note (kit).md"
-    },
-    {
-      "basename": "Template, Meeting (kit)",
-      "path": "Extras/Templates/Template, Meeting (kit).md"
     }
   ],
   "omittedPaths": [],
