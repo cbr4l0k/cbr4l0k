@@ -1,0 +1,1 @@
+Daniel Jurafsky, James H. Martin. _Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition_. Draft of October 15, 2007 (for the 2nd edition), Prentice Hall, 2000, http://gen.lib.rus.ec/book/index.php?md5=9dbfbaedce7007d816477c96f4e6b17d.
