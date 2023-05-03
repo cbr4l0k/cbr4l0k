@@ -17,13 +17,16 @@ Nachbin, André, and Vanessa da Silva Simões. “Solitary Waves in Open Channel
 
 # Sec 2.  Background on the Water Wave  Model
 
+[[nachbin_2012_sec_2]] 
+
+The goal of this section is to provide background information on the water wave model that will be used for the study. The section describes the mathematical formulation of the model specifically the governing equations and boundary conditions. It also provides details on the [boussinesq_type_system](boussinesq_type_systems_of_partial_differential_equations.md), which is a reduced potential used in the weakly nonlinear, weakly dispersive formulation for surface waves. The section further discusses numerical investigations that have been done on the system, including experiments for both sharp-corned and smooth, but significantly bent channels. Additionally, the section highlights some of the key findings from these investigations, such as the [reflection](reflection_in_wave_dynamics.md) and [transmission](transmission_in_wave_dynamics) in [solitary_waves](solitary_waves.md) going through these bends being mostly controlled by the radio of the channel width to the wavelength. 
+
+
 # Sec 3. The Schwarz-Christoffel Transformation of Sharp-Corned Bends
 
 # Sec 4. Numerical Methods and Simulations
 
 # Sec 5.  Conclusion
-
-
 
 
 

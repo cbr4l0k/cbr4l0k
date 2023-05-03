@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "nachbin_2012_sec_2",
+      "path": "+_Encounters/nachbin_2012_sec_2.md"
+    },
+    {
       "basename": "nachbin-2012",
       "path": "Sources/nachbin-2012.md"
     },
     {
+      "basename": "reflection_in_wave_dynamics",
+      "path": "Cards/reflection_in_wave_dynamics.md"
+    },
+    {
+      "basename": "transmission_in_wave_dynamics",
+      "path": "+_Encounters/transmission_in_wave_dynamics.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "+_Encounters/Untitled.md"
+    },
+    {
+      "basename": "cdd_idea_03",
+      "path": "+_Encounters/cdd_idea_03.md"
+    },
+    {
+      "basename": "cdd_idea_02",
+      "path": "+_Encounters/cdd_idea_02.md"
+    },
+    {
+      "basename": "cdd_idea_01",
+      "path": "+_Encounters/cdd_idea_01.md"
+    },
+    {
+      "basename": "cdd_idea_04",
+      "path": "+_Encounters/cdd_idea_04.md"
+    },
+    {
+      "basename": "cuaderno_de_dibujo_texto",
+      "path": "+_Encounters/cuaderno_de_dibujo_texto.md"
+    },
+    {
+      "basename": "solitary_waves",
+      "path": "Cards/solitary_waves.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Drawing 2023-05-02 17.38.35.excalidraw",
+      "path": "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md"
+    },
+    {
+      "basename": "invisid_fluid",
+      "path": "+_Encounters/invisid_fluid.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "main",
+      "path": "main.md"
+    },
+    {
+      "basename": "Esoteric MOC",
+      "path": "Atlas/Esoteric MOC.md"
+    },
+    {
       "basename": "neumman_condition",
-      "path": "+_Encounters/neumman_condition.md"
+      "path": "Cards/neumman_condition.md"
     },
     {
       "basename": "dispersion",
@@ -17,16 +81,8 @@
       "path": "Cards/channel_width_to_wavelenght_ratio.md"
     },
     {
-      "basename": "cuaderno_de_dibujo_texto",
-      "path": "+_Encounters/cuaderno_de_dibujo_texto.md"
-    },
-    {
       "basename": "boussinesq_type_systems_of_partial_differential_equations",
       "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
-    },
-    {
-      "basename": "solitary_waves",
-      "path": "Cards/solitary_waves.md"
     },
     {
       "basename": "jacobian_of_the_schwarz_christoffel_transformation",
@@ -69,10 +125,6 @@
       "path": "Cards/nonlinearity_in_solitary_waves.md"
     },
     {
-      "basename": "reflection_in_wave_dynamics",
-      "path": "Cards/reflection_in_wave_dynamics.md"
-    },
-    {
       "basename": "wavelenght",
       "path": "Cards/wavelenght.md"
     },
@@ -87,22 +139,6 @@
     {
       "basename": "kant-1997",
       "path": "Sources/kant-1997.md"
-    },
-    {
-      "basename": "cdd_idea_02",
-      "path": "+_Encounters/cdd_idea_02.md"
-    },
-    {
-      "basename": "cdd_idea_04",
-      "path": "+_Encounters/cdd_idea_04.md"
-    },
-    {
-      "basename": "cdd_idea_03",
-      "path": "+_Encounters/cdd_idea_03.md"
-    },
-    {
-      "basename": "cdd_idea_01",
-      "path": "+_Encounters/cdd_idea_01.md"
     },
     {
       "basename": "mathematicalModeling-2023",
@@ -163,42 +199,6 @@
     {
       "basename": "deconstrucción",
       "path": "Cards/deconstrucción.md"
-    },
-    {
-      "basename": "osio-2016",
-      "path": "Sources/osio-2016.md"
-    },
-    {
-      "basename": "fin-del-genero-en-el-arte",
-      "path": "Cards/fin-del-genero-en-el-arte.md"
-    },
-    {
-      "basename": "crítica-a-la-deconstrucción",
-      "path": "Cards/crítica-a-la-deconstrucción.md"
-    },
-    {
-      "basename": "nihilismo-político",
-      "path": "Cards/nihilismo-político.md"
-    },
-    {
-      "basename": "deconstrucción-en-la-teoría-del-arte",
-      "path": "Cards/deconstrucción-en-la-teoría-del-arte.md"
-    },
-    {
-      "basename": "arte-de-ocasión",
-      "path": "Cards/arte-de-ocasión.md"
-    },
-    {
-      "basename": "aplicaciones-positivas-del-nihilismo-postmoderno",
-      "path": "Cards/aplicaciones-positivas-del-nihilismo-postmoderno.md"
-    },
-    {
-      "basename": "digital-divide",
-      "path": "Cards/digital-divide.md"
-    },
-    {
-      "basename": "superación-de-la-estética-modernista",
-      "path": "Cards/superación-de-la-estética-modernista.md"
     }
   ],
   "omittedPaths": [],

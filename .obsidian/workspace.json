@@ -4,52 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "5463aa581d313cd9",
-        "type": "tabs",
+        "id": "acc713f2ea59871a",
+        "type": "split",
         "children": [
           {
-            "id": "398f5dd74cd44eec",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "5463aa581d313cd9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f56b9f3d28406932",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "reflection_in_wave_dynamics",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/reflection_in_wave_dynamics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Release Notes 1.2.7",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.2.7\"}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sources/nachbin-2012.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+              },
+              {
+                "id": "1b94d9a96d352898",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+_Encounters/nachbin_2012_sec_2.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "a466be84123d09c5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+            "id": "7957f1d112ac9df8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "398f5dd74cd44eec",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/nachbin-2012.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -138,6 +185,23 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "cb73169e0e6a0e91",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -189,7 +253,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/nachbin-2012.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +275,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4321136626343246,
+                  "scale": 0.25250912668360437,
                   "close": true
                 }
               }
@@ -232,9 +295,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sources/nachbin-2012.md"
-              }
+              "state": {}
             }
           },
           {
@@ -293,13 +354,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/nachbin-2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -319,60 +379,64 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/nachbin-2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 241.5028076171875,
-    "collapsed": true
+    "width": 241.5028076171875
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "periodic-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a466be84123d09c5",
+  "active": "398f5dd74cd44eec",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
+    "+_Encounters/nachbin_2012_sec_2.md",
     "Sources/nachbin-2012.md",
-    "+_Encounters/neumman_condition.md",
+    "Cards/reflection_in_wave_dynamics.md",
+    "+_Encounters/transmission_in_wave_dynamics.md",
+    "+_Encounters/Untitled.md",
+    "+_Encounters/cdd_idea_03.md",
+    "+_Encounters/cdd_idea_02.md",
+    "+_Encounters/cdd_idea_01.md",
+    "+_Encounters/cdd_idea_04.md",
+    "+_Encounters/cuaderno_de_dibujo_texto.md",
+    "Cards/solitary_waves.md",
+    "+_Encounters/acoustic_waves.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
+    "Excalidraw",
+    "+_Encounters/invisid_fluid.md",
+    "README.md",
+    "main.md",
+    "Atlas/Esoteric MOC.md",
+    "Cards/neumman_condition.md",
     "Cards/dispersion.md",
     "Cards/channel_width_to_wavelenght_ratio.md",
-    "+_Encounters/cuaderno_de_dibujo_texto.md",
     "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
-    "Cards/solitary_waves.md",
     "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
     "Cards/jacobian.md",
     "Cards/riemman_mapping_theorem.md",
     "Cards/conformal map.md",
     "Cards/schwarz_christoffel_transformation.md",
-    "Cards/presence_of_branching_points_in_a_channel.md",
-    "Cards/tsunamis_in_norwegian_fjords.md",
-    "Cards/propagation_of_nonlinear_waves_in_highly_curved_open_channels.md",
-    "+_Encounters/Untitled 2.md",
-    "+_Encounters/Untitled 1.md",
-    "Cards/solitary_waves_in_different_width_channels.md",
-    "Cards/simple-sheet-tray-pizza.md",
-    "Cards/nonlinearity_in_solitary_waves.md",
-    "Cards/reflection_in_wave_dynamics.md",
-    "Cards/wavelenght.md",
-    "Cards/solitary_waves_and_the_balance_between_nonlinearity_and_dispersion.md",
-    "+_Encounters/nonlinearity.md",
-    "+_Encounters/balance_between_nonlinearity_and_dispersion.md",
-    "+_Encounters/principles-of-mathematical-modeling.md",
     "+_Encounters/plan-neto.canvas"
   ]
 }
