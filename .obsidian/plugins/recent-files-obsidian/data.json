@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "nachbin_2012_sec_2",
-      "path": "+_Encounters/nachbin_2012_sec_2.md"
+      "basename": "free_surface_boundary_conditions",
+      "path": "+_Encounters/free_surface_boundary_conditions.md"
+    },
+    {
+      "basename": "kinematic_condition",
+      "path": "Cards/kinematic_condition.md"
     },
     {
       "basename": "nachbin-2012",
       "path": "Sources/nachbin-2012.md"
+    },
+    {
+      "basename": "euler_equation",
+      "path": "Cards/euler_equation.md"
+    },
+    {
+      "basename": "invisid_fluid",
+      "path": "Cards/invisid_fluid.md"
+    },
+    {
+      "basename": "bernoulli_law",
+      "path": "Cards/bernoulli_law.md"
+    },
+    {
+      "basename": "cdd_idea_01",
+      "path": "+_Encounters/dibujo/cdd_idea_01.md"
+    },
+    {
+      "basename": "cuaderno_de_dibujo_texto",
+      "path": "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md"
+    },
+    {
+      "basename": "neumman_condition",
+      "path": "Cards/neumman_condition.md"
+    },
+    {
+      "basename": "jacobian_of_the_schwarz_christoffel_transformation",
+      "path": "Cards/jacobian_of_the_schwarz_christoffel_transformation.md"
     },
     {
       "basename": "reflection_in_wave_dynamics",
@@ -14,47 +46,27 @@
     },
     {
       "basename": "transmission_in_wave_dynamics",
-      "path": "+_Encounters/transmission_in_wave_dynamics.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "+_Encounters/Untitled.md"
+      "path": "Cards/transmission_in_wave_dynamics.md"
     },
     {
       "basename": "cdd_idea_03",
-      "path": "+_Encounters/cdd_idea_03.md"
+      "path": "+_Encounters/dibujo/cdd_idea_03.md"
     },
     {
       "basename": "cdd_idea_02",
-      "path": "+_Encounters/cdd_idea_02.md"
-    },
-    {
-      "basename": "cdd_idea_01",
-      "path": "+_Encounters/cdd_idea_01.md"
+      "path": "+_Encounters/dibujo/cdd_idea_02.md"
     },
     {
       "basename": "cdd_idea_04",
-      "path": "+_Encounters/cdd_idea_04.md"
-    },
-    {
-      "basename": "cuaderno_de_dibujo_texto",
-      "path": "+_Encounters/cuaderno_de_dibujo_texto.md"
+      "path": "+_Encounters/dibujo/cdd_idea_04.md"
     },
     {
       "basename": "solitary_waves",
       "path": "Cards/solitary_waves.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
       "basename": "Drawing 2023-05-02 17.38.35.excalidraw",
       "path": "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md"
-    },
-    {
-      "basename": "invisid_fluid",
-      "path": "+_Encounters/invisid_fluid.md"
     },
     {
       "basename": "README",
@@ -69,10 +81,6 @@
       "path": "Atlas/Esoteric MOC.md"
     },
     {
-      "basename": "neumman_condition",
-      "path": "Cards/neumman_condition.md"
-    },
-    {
       "basename": "dispersion",
       "path": "Cards/dispersion.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "boussinesq_type_systems_of_partial_differential_equations",
       "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
-    },
-    {
-      "basename": "jacobian_of_the_schwarz_christoffel_transformation",
-      "path": "Cards/jacobian_of_the_schwarz_christoffel_transformation.md"
     },
     {
       "basename": "jacobian",
@@ -195,10 +199,6 @@
     {
       "basename": "moonage-daydream-2022",
       "path": "Sources/moonage-daydream-2022.md"
-    },
-    {
-      "basename": "deconstrucción",
-      "path": "Cards/deconstrucción.md"
     }
   ],
   "omittedPaths": [],

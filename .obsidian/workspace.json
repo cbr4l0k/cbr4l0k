@@ -4,99 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "acc713f2ea59871a",
-        "type": "split",
+        "id": "5463aa581d313cd9",
+        "type": "tabs",
         "children": [
           {
-            "id": "5463aa581d313cd9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f56b9f3d28406932",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "reflection_in_wave_dynamics",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/reflection_in_wave_dynamics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Release Notes 1.2.7",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.2.7\"}}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sources/nachbin-2012.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+            "id": "398f5dd74cd44eec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
-              },
-              {
-                "id": "1b94d9a96d352898",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+_Encounters/nachbin_2012_sec_2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           },
           {
-            "id": "7957f1d112ac9df8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "398f5dd74cd44eec",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
+            "id": "5ad7dd232fb720a8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 },
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
+                {
+                  "title": "kinematic_condition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/kinematic_condition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "free_surface_boundary_conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+_Encounters/free_surface_boundary_conditions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+_Encounters/free_surface_boundary_conditions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -253,6 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "+_Encounters/free_surface_boundary_conditions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +260,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+_Encounters/free_surface_boundary_conditions.md"
+              }
             }
           },
           {
@@ -354,6 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+_Encounters/free_surface_boundary_conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,6 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+_Encounters/free_surface_boundary_conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,39 +373,40 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "398f5dd74cd44eec",
+  "active": "5ad7dd232fb720a8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "+_Encounters/nachbin_2012_sec_2.md",
+    "Cards/kinematic_condition.md",
+    "+_Encounters/free_surface_boundary_conditions.md",
     "Sources/nachbin-2012.md",
-    "Cards/reflection_in_wave_dynamics.md",
-    "+_Encounters/transmission_in_wave_dynamics.md",
+    "Cards/euler_equation.md",
+    "Cards/invisid_fluid.md",
+    "Cards/bernoulli_law.md",
+    "+_Encounters/dibujo/cdd_idea_01.md",
+    "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
+    "+_Encounters/dibujo",
     "+_Encounters/Untitled.md",
-    "+_Encounters/cdd_idea_03.md",
-    "+_Encounters/cdd_idea_02.md",
-    "+_Encounters/cdd_idea_01.md",
-    "+_Encounters/cdd_idea_04.md",
-    "+_Encounters/cuaderno_de_dibujo_texto.md",
+    "Cards/neumman_condition.md",
+    "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
+    "borrar.canvas",
+    "+_Encounters/nachbin_2012_sec_2.md",
+    "Cards/reflection_in_wave_dynamics.md",
+    "Cards/transmission_in_wave_dynamics.md",
+    "+_Encounters/dibujo/cdd_idea_03.md",
+    "+_Encounters/dibujo/cdd_idea_02.md",
+    "+_Encounters/dibujo/cdd_idea_04.md",
     "Cards/solitary_waves.md",
     "+_Encounters/acoustic_waves.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
     "Excalidraw",
-    "+_Encounters/invisid_fluid.md",
     "README.md",
     "main.md",
     "Atlas/Esoteric MOC.md",
-    "Cards/neumman_condition.md",
     "Cards/dispersion.md",
     "Cards/channel_width_to_wavelenght_ratio.md",
     "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
-    "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
-    "Cards/jacobian.md",
-    "Cards/riemman_mapping_theorem.md",
-    "Cards/conformal map.md",
-    "Cards/schwarz_christoffel_transformation.md",
     "+_Encounters/plan-neto.canvas"
   ]
 }

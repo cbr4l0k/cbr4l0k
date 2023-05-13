@@ -2,31 +2,32 @@ Nachbin, André, and Vanessa da Silva Simões. “Solitary Waves in Open Channel
 
 # Sec 1. Introduction
 
-**Main goal:** To have a reliable one-dimensional reduced model that captures the main features of [wave_reflection](reflection_in_wave_dynamics.md) and [wave_transmission](transmission_in_wave_dynamics) in domains akin to the Norwegian fjords. 
-
-**Secondary goals:** 
-
-- To better understand the dynamics of solitary waves ind domains similar to the Norwegian fjords.
-- Better understanding of the [[compatibility_conditions]] at the branching points, when the dynamics are governed by a [boussinesq_type_systems_of_partial_differential_equations](boussinesq_type_systems_of_partial_differential_equations.md).
--  Understand how to deduce accurate reduced (one-dimensional) models for the [reflection](reflection_in_wave_dynamics.md) and [transmission](transmission_in_wave_dynamics) of [solitary_waves](solitary_waves.md) on graphs/networks.
+The problem of studying the dynamics of [solitary_waves](solitary_waves.md) in complex domains such as open channels with sharp bends and branching points is of great interest due to its wide range of applications, including flood and tidal waves in rivers, channels of an irrigation network, and even [tsunamis_in_norwegian_fjords](tsunamis_in_norwegian_fjords.md). The paper aims to address this problem by investigating how nonlinear waves, such as [solitary_waves](solitary_waves.md), propagate through sharp bends and branching points in open channels.
 
 
 **Facts:**
 
-- The [[jacobian_of_the_schwarz_christoffel_transformation]] we can rationalize the [solitary_waves](solitary_waves.md) characteristic at sharp-beds, both in narrow and wide channel configurations. 
+- With the [[jacobian_of_the_schwarz_christoffel_transformation]] we can rationalize the [solitary_waves](solitary_waves.md) characteristic at sharp-beds, both in narrow and wide channel configurations. 
 
 # Sec 2.  Background on the Water Wave  Model
 
-[[nachbin_2012_sec_2]] 
+- Provides the background material necessary for understanding the water wave problem and the boundary conditions that must be satisfied.
 
-The goal of this section is to provide background information on the water wave model that will be used for the study. The section describes the mathematical formulation of the model specifically the governing equations and boundary conditions. It also provides details on the [boussinesq_type_system](boussinesq_type_systems_of_partial_differential_equations.md), which is a reduced potential used in the weakly nonlinear, weakly dispersive formulation for surface waves. The section further discusses numerical investigations that have been done on the system, including experiments for both sharp-corned and smooth, but significantly bent channels. Additionally, the section highlights some of the key findings from these investigations, such as the [reflection](reflection_in_wave_dynamics.md) and [transmission](transmission_in_wave_dynamics) in [solitary_waves](solitary_waves.md) going through these bends being mostly controlled by the radio of the channel width to the wavelength. 
-
+In this section of the paper, the background material on the corresponding water wave problem is explained. The problem is governed by the three-dimensional [euler_equation](euler_equation.md)  in the regime where the  [invisid_fluid](invisid_fluid.md) flow is considered to be incompressible and irrotational. The Euler equations are formulated in the presence of free surface boundary conditions, and both the [kinematic_condition](kinematic_condition.md) and a [bernoulli_law](bernoulli_law.md) are imposed along this free boundary. Under the assumption that the flow is considered to be incompressible and irrotational, a harmonic velocity potential is defined through which the velocity field can be obtained.
 
 # Sec 3. The Schwarz-Christoffel Transformation of Sharp-Corned Bends
 
+- Describes the numerical algorithm used to solve the problem, which is based on a conformal mapping technique.
+
 # Sec 4. Numerical Methods and Simulations
 
+- Presents the results of the numerical simulations of various channel configurations.
+
 # Sec 5.  Conclusion
+
+
+
+
 
 
 
