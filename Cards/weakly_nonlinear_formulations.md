@@ -1,0 +1,3 @@
+When you play with your toys, sometimes you can make them move a little bit and sometimes you can make them move a lot. Imagine  you have a big toy that you can only make move a little bit, but you want to understand how it moves when you push it a lot. That's where weakly nonlinear formulation comes in.
+
+It's like looking at how the toy moves when you push it a little bit, and then using some special rules to figure out how it will move when you push it a lot. Scientist use weakly nonlinear formulations  to study things like waves in the ocean or vibrations in a guitar string. By using these rules, they can understand how things move and change over time, even when they are not pushed a lot.

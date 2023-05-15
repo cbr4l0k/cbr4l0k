@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "free_surface_boundary_conditions",
-      "path": "+_Encounters/free_surface_boundary_conditions.md"
+      "basename": "nachbin-2012",
+      "path": "Sources/nachbin-2012.md"
+    },
+    {
+      "basename": "neumman_condition",
+      "path": "Cards/neumman_condition.md"
+    },
+    {
+      "basename": "boussinesq_type_systems_of_partial_differential_equations",
+      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
+    },
+    {
+      "basename": "weakly_dispersive_formulations",
+      "path": "Cards/weakly_dispersive_formulations.md"
+    },
+    {
+      "basename": "weakly_nonlinear_formulations",
+      "path": "Cards/weakly_nonlinear_formulations.md"
+    },
+    {
+      "basename": "bernoulli_law",
+      "path": "Cards/bernoulli_law.md"
     },
     {
       "basename": "kinematic_condition",
       "path": "Cards/kinematic_condition.md"
     },
     {
-      "basename": "nachbin-2012",
-      "path": "Sources/nachbin-2012.md"
+      "basename": "free_surface_boundary_conditions",
+      "path": "Cards/free_surface_boundary_conditions.md"
+    },
+    {
+      "basename": "free_surface",
+      "path": "Cards/free_surface.md"
     },
     {
       "basename": "euler_equation",
@@ -21,20 +45,12 @@
       "path": "Cards/invisid_fluid.md"
     },
     {
-      "basename": "bernoulli_law",
-      "path": "Cards/bernoulli_law.md"
-    },
-    {
       "basename": "cdd_idea_01",
       "path": "+_Encounters/dibujo/cdd_idea_01.md"
     },
     {
       "basename": "cuaderno_de_dibujo_texto",
       "path": "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md"
-    },
-    {
-      "basename": "neumman_condition",
-      "path": "Cards/neumman_condition.md"
     },
     {
       "basename": "jacobian_of_the_schwarz_christoffel_transformation",
@@ -87,10 +103,6 @@
     {
       "basename": "channel_width_to_wavelenght_ratio",
       "path": "Cards/channel_width_to_wavelenght_ratio.md"
-    },
-    {
-      "basename": "boussinesq_type_systems_of_partial_differential_equations",
-      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
     },
     {
       "basename": "jacobian",
@@ -187,18 +199,6 @@
     {
       "basename": "enologia-2023",
       "path": "Sources/enologia-2023.md"
-    },
-    {
-      "basename": "destilados-vs-fermentados",
-      "path": "Cards/destilados-vs-fermentados.md"
-    },
-    {
-      "basename": "dotCSV-2021",
-      "path": "Sources/dotCSV-2021.md"
-    },
-    {
-      "basename": "moonage-daydream-2022",
-      "path": "Sources/moonage-daydream-2022.md"
     }
   ],
   "omittedPaths": [],

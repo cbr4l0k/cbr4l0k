@@ -15,6 +15,8 @@ The problem of studying the dynamics of [solitary_waves](solitary_waves.md) in c
 
 In this section of the paper, the background material on the corresponding water wave problem is explained. The problem is governed by the three-dimensional [euler_equation](euler_equation.md)  in the regime where the  [invisid_fluid](invisid_fluid.md) flow is considered to be incompressible and irrotational. The Euler equations are formulated in the presence of free surface boundary conditions, and both the [kinematic_condition](kinematic_condition.md) and a [bernoulli_law](bernoulli_law.md) are imposed along this free boundary. Under the assumption that the flow is considered to be incompressible and irrotational, a harmonic velocity potential is defined through which the velocity field can be obtained.
 
+
+
 # Sec 3. The Schwarz-Christoffel Transformation of Sharp-Corned Bends
 
 - Describes the numerical algorithm used to solve the problem, which is based on a conformal mapping technique.

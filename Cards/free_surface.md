@@ -1,0 +1,1 @@
+The surface of the fluid that is not in contact  with any solid boundary, such as the walls of a container. 

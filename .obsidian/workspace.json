@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "5ad7dd232fb720a8",
+            "id": "ff17baf0334409a8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -35,25 +35,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "kinematic_condition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/kinematic_condition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "free_surface_boundary_conditions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+_Encounters/free_surface_boundary_conditions.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+_Encounters/free_surface_boundary_conditions.md",
+                "file": "Sources/nachbin-2012.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+_Encounters/free_surface_boundary_conditions.md",
+                "file": "Sources/nachbin-2012.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+_Encounters/free_surface_boundary_conditions.md"
+                "file": "Sources/nachbin-2012.md"
               }
             }
           },
@@ -321,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+_Encounters/free_surface_boundary_conditions.md",
+                "file": "Sources/nachbin-2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,9 +335,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+_Encounters/free_surface_boundary_conditions.md",
+                "file": "Sources/nachbin-2012.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -373,22 +361,26 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "5ad7dd232fb720a8",
+  "active": "ff17baf0334409a8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cards/neumman_condition.md",
+    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
+    "Cards/weakly_dispersive_formulations.md",
+    "Cards/weakly_nonlinear_formulations.md",
+    "Cards/bernoulli_law.md",
+    "+_Encounters/Untitled.md",
     "Cards/kinematic_condition.md",
-    "+_Encounters/free_surface_boundary_conditions.md",
+    "Cards/free_surface_boundary_conditions.md",
+    "Cards/free_surface.md",
     "Sources/nachbin-2012.md",
     "Cards/euler_equation.md",
     "Cards/invisid_fluid.md",
-    "Cards/bernoulli_law.md",
     "+_Encounters/dibujo/cdd_idea_01.md",
     "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
     "+_Encounters/dibujo",
-    "+_Encounters/Untitled.md",
-    "Cards/neumman_condition.md",
     "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
     "borrar.canvas",
     "+_Encounters/nachbin_2012_sec_2.md",
@@ -403,10 +395,6 @@
     "Excalidraw",
     "README.md",
     "main.md",
-    "Atlas/Esoteric MOC.md",
-    "Cards/dispersion.md",
-    "Cards/channel_width_to_wavelenght_ratio.md",
-    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
     "+_Encounters/plan-neto.canvas"
   ]
 }
