@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5431447
       }
+    },
+    {
+      "query": "path:Excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 13.9645359019264,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.5255053908881422,
+  "scale": 0.266312062500617,
   "close": true
 }

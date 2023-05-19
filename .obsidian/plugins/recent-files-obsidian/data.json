@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "nachbin-2012",
-      "path": "Sources/nachbin-2012.md"
+      "basename": "nachbin_2012",
+      "path": "Sources/nachbin_2012.md"
+    },
+    {
+      "basename": "schwarz_christoffel_transformation",
+      "path": "Cards/schwarz_christoffel_transformation.md"
+    },
+    {
+      "basename": "reduced_potential",
+      "path": "Cards/reduced_potential.md"
+    },
+    {
+      "basename": "conformal_map",
+      "path": "Cards/conformal_map.md"
+    },
+    {
+      "basename": "riemman_mapping_theorem",
+      "path": "Cards/riemman_mapping_theorem.md"
     },
     {
       "basename": "neumman_condition",
       "path": "Cards/neumman_condition.md"
     },
     {
-      "basename": "boussinesq_type_systems_of_partial_differential_equations",
-      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
+      "basename": "solitary_waves",
+      "path": "Cards/solitary_waves.md"
     },
     {
-      "basename": "weakly_dispersive_formulations",
-      "path": "Cards/weakly_dispersive_formulations.md"
+      "basename": "2023-05-15-w20",
+      "path": "Calendar/2022/2023-05-15-w20.md"
     },
     {
-      "basename": "weakly_nonlinear_formulations",
-      "path": "Cards/weakly_nonlinear_formulations.md"
+      "basename": "free_surface_boundary_conditions",
+      "path": "Cards/free_surface_boundary_conditions.md"
     },
     {
       "basename": "bernoulli_law",
@@ -27,14 +43,6 @@
     {
       "basename": "kinematic_condition",
       "path": "Cards/kinematic_condition.md"
-    },
-    {
-      "basename": "free_surface_boundary_conditions",
-      "path": "Cards/free_surface_boundary_conditions.md"
-    },
-    {
-      "basename": "free_surface",
-      "path": "Cards/free_surface.md"
     },
     {
       "basename": "euler_equation",
@@ -77,14 +85,6 @@
       "path": "+_Encounters/dibujo/cdd_idea_04.md"
     },
     {
-      "basename": "solitary_waves",
-      "path": "Cards/solitary_waves.md"
-    },
-    {
-      "basename": "Drawing 2023-05-02 17.38.35.excalidraw",
-      "path": "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -105,20 +105,12 @@
       "path": "Cards/channel_width_to_wavelenght_ratio.md"
     },
     {
+      "basename": "boussinesq_type_systems_of_partial_differential_equations",
+      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
+    },
+    {
       "basename": "jacobian",
       "path": "Cards/jacobian.md"
-    },
-    {
-      "basename": "riemman_mapping_theorem",
-      "path": "Cards/riemman_mapping_theorem.md"
-    },
-    {
-      "basename": "conformal map",
-      "path": "Cards/conformal map.md"
-    },
-    {
-      "basename": "schwarz_christoffel_transformation",
-      "path": "Cards/schwarz_christoffel_transformation.md"
     },
     {
       "basename": "presence_of_branching_points_in_a_channel",
@@ -195,10 +187,6 @@
     {
       "basename": "jurafsky-2007",
       "path": "Sources/jurafsky-2007.md"
-    },
-    {
-      "basename": "enologia-2023",
-      "path": "Sources/enologia-2023.md"
     }
   ],
   "omittedPaths": [],

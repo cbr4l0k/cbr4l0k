@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "398f5dd74cd44eec",
+            "id": "349365611b807d35",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "ff17baf0334409a8",
+            "id": "7330d8081ed6d0cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/nachbin-2012.md",
+                "file": "Sources/nachbin_2012.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/nachbin-2012.md",
+                "file": "Sources/nachbin_2012.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/nachbin-2012.md"
+                "file": "Sources/nachbin_2012.md"
               }
             }
           },
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/nachbin-2012.md",
+                "file": "Sources/nachbin_2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,9 +335,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/nachbin-2012.md",
+                "file": "Sources/nachbin_2012.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -361,40 +361,42 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ff17baf0334409a8",
+  "active": "7330d8081ed6d0cb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Cards/schwarz_christoffel_transformation.md",
+    "Sources/nachbin_2012.md",
+    "Cards/reduced_potential.md",
+    "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
+    "Cards/conformal_map.md",
+    "Cards/riemman_mapping_theorem.md",
+    "Excalidraw/Drawing 2023-05-18 19.18.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
+    "nachbin_2012_sec2.canvas",
     "Cards/neumman_condition.md",
-    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
-    "Cards/weakly_dispersive_formulations.md",
-    "Cards/weakly_nonlinear_formulations.md",
-    "Cards/bernoulli_law.md",
-    "+_Encounters/Untitled.md",
-    "Cards/kinematic_condition.md",
+    "Cards/solitary_waves.md",
+    "Calendar/2022/2023-05-15-w20.md",
     "Cards/free_surface_boundary_conditions.md",
+    "Untitled.canvas",
+    "Cards/bernoulli_law.md",
+    "+_Encounters/free_surface_boundary_conditions.md",
+    "Cards/weakly_nonlinear_formulations.md",
+    "Cards/weakly_dispersive_formulations.md",
     "Cards/free_surface.md",
-    "Sources/nachbin-2012.md",
+    "Cards/kinematic_condition.md",
     "Cards/euler_equation.md",
     "Cards/invisid_fluid.md",
     "+_Encounters/dibujo/cdd_idea_01.md",
     "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
     "+_Encounters/dibujo",
+    "+_Encounters/Untitled.md",
     "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
     "borrar.canvas",
     "+_Encounters/nachbin_2012_sec_2.md",
     "Cards/reflection_in_wave_dynamics.md",
-    "Cards/transmission_in_wave_dynamics.md",
-    "+_Encounters/dibujo/cdd_idea_03.md",
-    "+_Encounters/dibujo/cdd_idea_02.md",
-    "+_Encounters/dibujo/cdd_idea_04.md",
-    "Cards/solitary_waves.md",
-    "+_Encounters/acoustic_waves.md",
-    "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
     "Excalidraw",
-    "README.md",
-    "main.md",
     "+_Encounters/plan-neto.canvas"
   ]
 }
