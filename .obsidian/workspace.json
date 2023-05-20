@@ -35,9 +35,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "boussinesq_type_systems_of_partial_differential_equations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/boussinesq_type_systems_of_partial_differential_equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "neumman_condition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/neumman_condition.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "nachbin_2012",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/nachbin_2012.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":50},\"to\":{\"line\":30,\"ch\":50}},\"scroll\":23.816944444444445}"
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,11 +64,34 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "661cf5cb15aa97df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/reduced_potential.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -205,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/nachbin_2012.md",
+                "file": "Cards/reduced_potential.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/nachbin_2012.md"
+                "file": "Cards/reduced_potential.md"
               }
             }
           },
@@ -288,7 +331,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "cc261747cbab30f2",
@@ -309,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/nachbin_2012.md",
+                "file": "Cards/reduced_potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,18 +378,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/nachbin_2012.md",
+                "file": "Cards/reduced_potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5028076171875
+    "width": 241.5028076171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,22 +404,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7330d8081ed6d0cb",
+  "active": "661cf5cb15aa97df",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Cards/schwarz_christoffel_transformation.md",
     "Sources/nachbin_2012.md",
+    "Cards/neumman_condition.md",
+    "Cards/solitary_waves.md",
+    "Cards/schwarz_christoffel_transformation.md",
     "Cards/reduced_potential.md",
-    "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
-    "Cards/conformal_map.md",
     "Cards/riemman_mapping_theorem.md",
+    "+_Encounters/Untitled.md",
+    "Cards/conformal_map.md",
+    "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
+    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
     "Excalidraw/Drawing 2023-05-18 19.18.27.excalidraw.md",
     "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
     "nachbin_2012_sec2.canvas",
-    "Cards/neumman_condition.md",
-    "Cards/solitary_waves.md",
     "Calendar/2022/2023-05-15-w20.md",
     "Cards/free_surface_boundary_conditions.md",
     "Untitled.canvas",
@@ -391,11 +436,9 @@
     "+_Encounters/dibujo/cdd_idea_01.md",
     "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
     "+_Encounters/dibujo",
-    "+_Encounters/Untitled.md",
     "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
     "borrar.canvas",
     "+_Encounters/nachbin_2012_sec_2.md",
-    "Cards/reflection_in_wave_dynamics.md",
     "Excalidraw",
     "+_Encounters/plan-neto.canvas"
   ]

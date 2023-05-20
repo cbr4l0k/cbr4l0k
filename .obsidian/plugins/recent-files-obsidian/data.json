@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "nachbin_2012",
-      "path": "Sources/nachbin_2012.md"
-    },
-    {
-      "basename": "schwarz_christoffel_transformation",
-      "path": "Cards/schwarz_christoffel_transformation.md"
-    },
-    {
       "basename": "reduced_potential",
       "path": "Cards/reduced_potential.md"
     },
     {
-      "basename": "conformal_map",
-      "path": "Cards/conformal_map.md"
-    },
-    {
-      "basename": "riemman_mapping_theorem",
-      "path": "Cards/riemman_mapping_theorem.md"
+      "basename": "nachbin_2012",
+      "path": "Sources/nachbin_2012.md"
     },
     {
       "basename": "neumman_condition",
@@ -27,6 +15,22 @@
     {
       "basename": "solitary_waves",
       "path": "Cards/solitary_waves.md"
+    },
+    {
+      "basename": "riemman_mapping_theorem",
+      "path": "Cards/riemman_mapping_theorem.md"
+    },
+    {
+      "basename": "schwarz_christoffel_transformation",
+      "path": "Cards/schwarz_christoffel_transformation.md"
+    },
+    {
+      "basename": "conformal_map",
+      "path": "Cards/conformal_map.md"
+    },
+    {
+      "basename": "boussinesq_type_systems_of_partial_differential_equations",
+      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
     },
     {
       "basename": "2023-05-15-w20",
@@ -103,10 +107,6 @@
     {
       "basename": "channel_width_to_wavelenght_ratio",
       "path": "Cards/channel_width_to_wavelenght_ratio.md"
-    },
-    {
-      "basename": "boussinesq_type_systems_of_partial_differential_equations",
-      "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
     },
     {
       "basename": "jacobian",
