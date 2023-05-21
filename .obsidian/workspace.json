@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "661cf5cb15aa97df",
+            "id": "43b449ed98463780",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -77,13 +77,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "boussinesq_type_systems_of_partial_differential_equations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/boussinesq_type_systems_of_partial_differential_equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":243},\"to\":{\"line\":4,\"ch\":243}}}"
+                },
+                {
+                  "title": "euler_equation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/euler_equation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":409},\"to\":{\"line\":0,\"ch\":409}}}"
+                },
+                {
+                  "title": "boussinesq_type_systems_of_partial_differential_equations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/boussinesq_type_systems_of_partial_differential_equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "reduced_potential",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/reduced_potential.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/reduced_potential.md",
+                "file": "Cards/nachbin_2012_parameters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -202,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -248,7 +271,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/reduced_potential.md",
+                "file": "Cards/nachbin_2012_parameters.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/reduced_potential.md"
+                "file": "Cards/nachbin_2012_parameters.md"
               }
             }
           },
@@ -352,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/reduced_potential.md",
+                "file": "Cards/nachbin_2012_parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +401,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/reduced_potential.md",
+                "file": "Cards/nachbin_2012_parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,8 +411,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5028076171875,
-    "collapsed": true
+    "width": 241.5028076171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,41 +426,41 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "661cf5cb15aa97df",
+  "active": "43b449ed98463780",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "Sources/nachbin_2012.md",
+    "Cards/nachbin_2012_parameters.md",
+    "Cards/reduced_potential.md",
+    "Extras/Images/Pasted image 20230521150217.png",
+    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
+    "Cards/euler_equation.md",
+    "Cards/bernoulli_law.md",
     "Cards/neumman_condition.md",
     "Cards/solitary_waves.md",
     "Cards/schwarz_christoffel_transformation.md",
-    "Cards/reduced_potential.md",
     "Cards/riemman_mapping_theorem.md",
     "+_Encounters/Untitled.md",
     "Cards/conformal_map.md",
     "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
-    "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
     "Excalidraw/Drawing 2023-05-18 19.18.27.excalidraw.md",
     "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
     "nachbin_2012_sec2.canvas",
     "Calendar/2022/2023-05-15-w20.md",
     "Cards/free_surface_boundary_conditions.md",
     "Untitled.canvas",
-    "Cards/bernoulli_law.md",
     "+_Encounters/free_surface_boundary_conditions.md",
     "Cards/weakly_nonlinear_formulations.md",
     "Cards/weakly_dispersive_formulations.md",
     "Cards/free_surface.md",
     "Cards/kinematic_condition.md",
-    "Cards/euler_equation.md",
     "Cards/invisid_fluid.md",
     "+_Encounters/dibujo/cdd_idea_01.md",
     "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
     "+_Encounters/dibujo",
-    "Cards/jacobian_of_the_schwarz_christoffel_transformation.md",
     "borrar.canvas",
-    "+_Encounters/nachbin_2012_sec_2.md",
     "Excalidraw",
     "+_Encounters/plan-neto.canvas"
   ]

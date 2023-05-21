@@ -1,37 +1,9 @@
 nachbin, André, and Vanessa da Silva Simões. “Solitary Waves in Open Channels with Abrupt Turns and Branching Points.” Journal of Nonlinear Mathematical Physics, vol. 19, no. Supplement 1, Springer Science and Business Media LLC, 2012, p. 116. Crossref, doi:10.1142/s1402925112400116.
 
-# Parameters
-
-| name               | definition                                                                                                      |
-| ------------------ | --------------------------------------------------------------------------------------------------------------- |
-| $(x,y)$            | Original coordinates                                                                                            |
-| $(\xi,\zeta)$      | Coordinates after mapping                                                                                       |
-| $\Phi(x,y,z,t)$    | Velocity potential                                                                                              |
-| $\eta(x,y,z)$      | Wave elevation                                                                                                  |
-| $h_o$              | Channel depth                                                                                                   |
-| $\phi(x,y,t)$      | [Reduced potential](reduced_potential.md)                                                                       |
-| $L$                | Scale factor                                                                                                    |
-| $b$                | Width of the channel                                                                                            |
-| $\lambda_e$        | Solitary wave's effective wavelength                                                                            |
-| $b/\lambda_e$      | *width-to-wavelength*                                                                                           |
-| $f$                | [Schwarz-Christoffel Mapping](schwarz_christoffel_transformation.md) (S.C.M)                                    |
-| $\left\|J\right\|$ | Jacobian of the S.C.M.                                                                                          |
-| $\phi^n(i,j)$      | $\phi(\xi,\zeta,t)$                                                                                             |
-| $E^n(i,j)$         | $-\frac{1}{\|J\|}\left[(1+\eta)(\phi_{\xi\xi}+\phi_{\zeta\zeta})(\eta_\xi\phi_\xi+\eta_\zeta\phi_\zeta)\right]$ |
-| $G^n(i,j)$         | $-\eta - \frac{(\phi_\xi)^2+(\phi_\zeta)^2}{2\|J\|}$                                                            |
-| $F$                | Auxiliary function                                                                                              |
-| $\alpha$           | [solitary wave](solitary_waves.md) amplitud                                                                     |
-| $\beta(\alpha)$    | influences the shape and width of the [solitary wave](solitary_waves.md)                                        |
-| $c(\alpha)$        | Wave speed                                                                                                      |
-| $\theta$           | Angle between branching channel                                                                                 |
-| $a$                | Node at the inner corner                                                                                        |
-| $b$                | Node North of $a$                                                                                               |
-| $c$                | Node East of $a$                                                                                                |
-| $C_1,C_2$          | Constant                                                                                                                |
-
+[nachbin_2012_parameters](../Cards/nachbin_2012_parameters.md)
 # Sec 1. Introduction
 
-The problem of studying the dynamics of [solitary_waves](solitary_waves.md) in complex domains such as open channels with sharp bends and branching points is of great interest due to its wide range of applications, including flood and tidal waves in rivers, channels of an irrigation network, and even [tsunamis_in_norwegian_fjords](tsunamis_in_norwegian_fjords.md). The paper aims to address this problem by investigating how nonlinear waves, such as [solitary_waves](solitary_waves.md), propagate through sharp bends and branching points in open channels.
+The problem of studying the dynamics of [solitary_waves](../Cards/solitary_waves.md) in complex domains such as open channels with sharp bends and branching points is of great interest due to its wide range of applications, including flood and tidal waves in rivers, channels of an irrigation network, and even [tsunamis_in_norwegian_fjords](../Cards/tsunamis_in_norwegian_fjords.md). The paper aims to address this problem by investigating how nonlinear waves, such as [solitary_waves](../Cards/solitary_waves.md), propagate through sharp bends and branching points in open channels.
 
 
 **Facts:**

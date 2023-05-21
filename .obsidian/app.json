@@ -159,7 +159,7 @@
   ],
   "showInlineTitle": false,
   "trashOption": "none",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "spellcheckLanguages": [
     "en-US",
