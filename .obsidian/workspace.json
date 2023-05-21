@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "43b449ed98463780",
+            "id": "e696c0a12a6e8738",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -77,37 +77,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "boussinesq_type_systems_of_partial_differential_equations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/boussinesq_type_systems_of_partial_differential_equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":243},\"to\":{\"line\":4,\"ch\":243}}}"
-                },
-                {
-                  "title": "euler_equation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/euler_equation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":409},\"to\":{\"line\":0,\"ch\":409}}}"
-                },
-                {
-                  "title": "boussinesq_type_systems_of_partial_differential_equations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/boussinesq_type_systems_of_partial_differential_equations.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "reduced_potential",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/reduced_potential.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/nachbin_2012_parameters.md",
+                "file": "Cards/schwarz_christoffel_transformation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -226,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 280,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -271,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/nachbin_2012_parameters.md",
+                "file": "Cards/schwarz_christoffel_transformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -315,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/nachbin_2012_parameters.md"
+                "file": "Cards/schwarz_christoffel_transformation.md"
               }
             }
           },
@@ -375,7 +352,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/nachbin_2012_parameters.md",
+                "file": "Cards/schwarz_christoffel_transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/nachbin_2012_parameters.md",
+                "file": "Cards/schwarz_christoffel_transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +388,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5028076171875
+    "width": 241.5028076171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -426,12 +404,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "43b449ed98463780",
+  "active": "e696c0a12a6e8738",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "Sources/nachbin_2012.md",
+    "Cards/conformal_map.md",
     "Cards/nachbin_2012_parameters.md",
     "Cards/reduced_potential.md",
     "Extras/Images/Pasted image 20230521150217.png",
@@ -443,7 +422,6 @@
     "Cards/schwarz_christoffel_transformation.md",
     "Cards/riemman_mapping_theorem.md",
     "+_Encounters/Untitled.md",
-    "Cards/conformal_map.md",
     "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
     "Excalidraw/Drawing 2023-05-18 19.18.27.excalidraw.md",
     "Excalidraw/Drawing 2023-05-02 17.38.35.excalidraw.md",
