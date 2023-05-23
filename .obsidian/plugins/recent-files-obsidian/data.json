@@ -1,32 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "schwarz_christoffel_transformation",
-      "path": "Cards/schwarz_christoffel_transformation.md"
-    },
-    {
       "basename": "nachbin_2012",
       "path": "Sources/nachbin_2012.md"
     },
     {
-      "basename": "conformal_map",
-      "path": "Cards/conformal_map.md"
+      "basename": "corrector_scheme",
+      "path": "+_Encounters/corrector_scheme.md"
     },
     {
-      "basename": "nachbin_2012_parameters",
-      "path": "Cards/nachbin_2012_parameters.md"
+      "basename": "predictor_scheme",
+      "path": "+_Encounters/predictor_scheme.md"
     },
     {
       "basename": "boussinesq_type_systems_of_partial_differential_equations",
       "path": "Cards/boussinesq_type_systems_of_partial_differential_equations.md"
     },
     {
-      "basename": "euler_equation",
-      "path": "Cards/euler_equation.md"
+      "basename": "nachbin_2012_parameters",
+      "path": "Cards/nachbin_2012_parameters.md"
+    },
+    {
+      "basename": "five_point_laplacian",
+      "path": "Cards/five_point_laplacian.md"
+    },
+    {
+      "basename": "centered_finite_difference",
+      "path": "Cards/centered_finite_difference.md"
     },
     {
       "basename": "reduced_potential",
       "path": "Cards/reduced_potential.md"
+    },
+    {
+      "basename": "schwarz_christoffel_transformation",
+      "path": "Cards/schwarz_christoffel_transformation.md"
+    },
+    {
+      "basename": "conformal_map",
+      "path": "Cards/conformal_map.md"
+    },
+    {
+      "basename": "euler_equation",
+      "path": "Cards/euler_equation.md"
     },
     {
       "basename": "bernoulli_law",
@@ -183,14 +199,6 @@
     {
       "basename": "computerVision-2023",
       "path": "Sources/computerVision-2023.md"
-    },
-    {
-      "basename": "manning-1999",
-      "path": "Sources/manning-1999.md"
-    },
-    {
-      "basename": "jurafsky-2007",
-      "path": "Sources/jurafsky-2007.md"
     }
   ],
   "omittedPaths": [],

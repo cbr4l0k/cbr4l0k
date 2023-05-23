@@ -37,9 +37,13 @@ The problem of studying the dynamics of [solitary_waves](../Cards/solitary_waves
 
 # Sec 4. Numerical Methods and Simulations
 
-- Presents the results of the numerical simulations of various channel configurations.
+-  Giben the potential $\phi(\xi, \zeta, t)$, the approximations to its spatial derivatives are obtained using the [centered_finite_difference](../Cards/centered_finite_difference.md) numerical method.
 - The experiment is using the trivial [neumman_condition](../Cards/neumman_condition.md): $\frac{d\phi^n}{d\zeta}=0$, it is used to ensure that the wave behaves in a certain way as it encounters the wall of the channel.
-- 
+-  Creation of [predictor_scheme](../+_Encounters/predictor_scheme.md) and [corrector_scheme](../+_Encounters/corrector_scheme.md)
+- Iteration $(\mu)$ on the corrector scheme are limited by:
+	- $\displaystyle\frac{\max(\eta^{n+1}_\mu-\eta_{\mu-1}^{n+1})}{\max\ \eta^0}$
+
+- Presents the results of the numerical simulations of various channel configurations.
 
 # Sec 5.  Conclusion
 

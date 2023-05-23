@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "e696c0a12a6e8738",
+            "id": "83ee0e644a649d3d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/schwarz_christoffel_transformation.md",
+                "file": "+_Encounters/corrector_scheme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280,
-    "collapsed": true
+    "width": 280
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/schwarz_christoffel_transformation.md",
+                "file": "Sources/nachbin_2012.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/schwarz_christoffel_transformation.md"
+                "file": "Sources/nachbin_2012.md"
               }
             }
           },
@@ -352,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/schwarz_christoffel_transformation.md",
+                "file": "Sources/nachbin_2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/schwarz_christoffel_transformation.md",
+                "file": "Sources/nachbin_2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,22 +403,26 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e696c0a12a6e8738",
+  "active": "7330d8081ed6d0cb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "+_Encounters/corrector_scheme.md",
     "Sources/nachbin_2012.md",
-    "Cards/conformal_map.md",
-    "Cards/nachbin_2012_parameters.md",
-    "Cards/reduced_potential.md",
-    "Extras/Images/Pasted image 20230521150217.png",
+    "+_Encounters/predictor_scheme.md",
     "Cards/boussinesq_type_systems_of_partial_differential_equations.md",
+    "Cards/nachbin_2012_parameters.md",
+    "Cards/five_point_laplacian.md",
+    "Cards/centered_finite_difference.md",
+    "Cards/neumman_condition.md",
+    "Cards/reduced_potential.md",
+    "Cards/schwarz_christoffel_transformation.md",
+    "Cards/conformal_map.md",
+    "Extras/Images/Pasted image 20230521150217.png",
     "Cards/euler_equation.md",
     "Cards/bernoulli_law.md",
-    "Cards/neumman_condition.md",
     "Cards/solitary_waves.md",
-    "Cards/schwarz_christoffel_transformation.md",
     "Cards/riemman_mapping_theorem.md",
     "+_Encounters/Untitled.md",
     "+_Encounters/Drawing 2023-05-18 19.18.27.excalidraw.md",
@@ -434,9 +437,6 @@
     "Cards/weakly_dispersive_formulations.md",
     "Cards/free_surface.md",
     "Cards/kinematic_condition.md",
-    "Cards/invisid_fluid.md",
-    "+_Encounters/dibujo/cdd_idea_01.md",
-    "+_Encounters/dibujo/cuaderno_de_dibujo_texto.md",
     "+_Encounters/dibujo",
     "borrar.canvas",
     "Excalidraw",
